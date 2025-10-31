@@ -1,4 +1,4 @@
-# ml_california_PROJECT
+# ml_california_Practise_dataset
 Code and notes for Chapter 2 - Linear Regression with Scikit-Learn
 
 # California Housing Price Prediction 
