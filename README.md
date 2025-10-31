@@ -1,19 +1,19 @@
 # ml_california_PROJECT
 Code and notes for Chapter 2 - Linear Regression with Scikit-Learn
 
-# California Housing Price Prediction 🏡
+# California Housing Price Prediction 
 
 This is a practice project from Chapter 2 of the book **"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"** by Aurélien Géron.
 
 ---
 
-## 📚 Project Objective
+##  Project Objective
 
 The goal is to build a machine learning pipeline to predict **median house values in California** using various features like location, population, income, etc.
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python
 - Jupyter Notebook
@@ -23,7 +23,7 @@ The goal is to build a machine learning pipeline to predict **median house value
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 - `housing.csv` → The dataset (California housing data)
 - `housing.ipynb` → Jupyter Notebook containing all code and output
@@ -31,7 +31,7 @@ The goal is to build a machine learning pipeline to predict **median house value
 
 ---
 
-## 📈 What I Learned
+##  What I Learned
 
 - Handling missing values
 - Data visualization and feature correlation
@@ -42,20 +42,7 @@ The goal is to build a machine learning pipeline to predict **median house value
 
 ---
 
-## 🚧 To Do
 
-- Add more comments to the code
-- Try Random Forest Regressor and GridSearchCV
-- Improve model performance
-- Clean up code and upload a final version
-
----
-
-## 📝 Author
-
-[Alpha6849]
-
----
 
 ## 📌 Note
 
